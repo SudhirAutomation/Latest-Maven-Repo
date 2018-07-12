@@ -3,8 +3,8 @@
   <test name="Regression suite 1" >
     <classes>
       <class name="com.first.example.demoOne"/>
-      <class name="com.first.example.demoTwo"/>
-      <class name="com.second.example.demoThree"/>
+      <class name="com.second.example.demoTwo"/>
+      <class name="com.third.example.demoThree"/>
     </classes>
  </test>
 </suite>
